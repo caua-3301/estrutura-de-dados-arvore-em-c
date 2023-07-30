@@ -11,3 +11,10 @@ Olá, apresento a vocês um dos tipos de estruturas que podem ser realizadas na 
 <p>Segunido essa idéia, apresento a vocês um exemplo de árvore na progrmação, como uma estrutura de dados:</p>
 
 ![Exemplo de arvore](https://github.com/caua-3301/estrutura-de-dados-arvore-em-c/assets/134548536/245d4afe-2d0f-4fa9-87fd-a59ae6e1c599)
+
+<p>Tecnologias utilizadas:</p>
+<ul>
+  <li>C</li>
+</ul>
+
+<p>Observação: Como um defensor do clean code, todo o projeto está comentado e devidamente indentado, aqui é Cauã falando e até a próxima :)</p>
